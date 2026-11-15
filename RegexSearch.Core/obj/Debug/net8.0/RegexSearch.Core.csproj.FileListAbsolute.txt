@@ -1,0 +1,12 @@
+C:\Users\doom666\Downloads\ИС\RegexSearch\RegexSearch.Core\bin\Debug\net8.0\RegexSearch.Core.deps.json
+C:\Users\doom666\Downloads\ИС\RegexSearch\RegexSearch.Core\bin\Debug\net8.0\RegexSearch.Core.dll
+C:\Users\doom666\Downloads\ИС\RegexSearch\RegexSearch.Core\bin\Debug\net8.0\RegexSearch.Core.pdb
+C:\Users\doom666\Downloads\ИС\RegexSearch\RegexSearch.Core\obj\Debug\net8.0\RegexSearch.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doom666\Downloads\ИС\RegexSearch\RegexSearch.Core\obj\Debug\net8.0\RegexSearch.Core.AssemblyInfoInputs.cache
+C:\Users\doom666\Downloads\ИС\RegexSearch\RegexSearch.Core\obj\Debug\net8.0\RegexSearch.Core.AssemblyInfo.cs
+C:\Users\doom666\Downloads\ИС\RegexSearch\RegexSearch.Core\obj\Debug\net8.0\RegexSearch.Core.csproj.CoreCompileInputs.cache
+C:\Users\doom666\Downloads\ИС\RegexSearch\RegexSearch.Core\obj\Debug\net8.0\RegexSearch.Core.dll
+C:\Users\doom666\Downloads\ИС\RegexSearch\RegexSearch.Core\obj\Debug\net8.0\refint\RegexSearch.Core.dll
+C:\Users\doom666\Downloads\ИС\RegexSearch\RegexSearch.Core\obj\Debug\net8.0\RegexSearch.Core.pdb
+C:\Users\doom666\Downloads\ИС\RegexSearch\RegexSearch.Core\obj\Debug\net8.0\ref\RegexSearch.Core.dll
+C:\Users\doom666\Downloads\ИС\RegexSearch\RegexSearch.Core\obj\Debug\net8.0\RegexSea.B8B2C7E8.Up2Date
